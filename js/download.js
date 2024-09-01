@@ -1,0 +1,1 @@
+document.getElementById('buy').onclick = () => location.href = 'download.html';
